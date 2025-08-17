@@ -116,10 +116,10 @@
 
         sym {
             bindings = <
-&kp GRAVE         &kp N1    &kp NUMBER_2      &kp NUMBER_3    &kp NUMBER_4       &kp NUMBER_5                     &kp N6     &kp NUMBER_7   &kp NUMBER_8  &kp NUMBER_9      &kp NUMBER_0  &kp PIPE
-&kp SINGLE_QUOTE  &kp BSLH  &kp LPAR          &kp MINUS       &kp RPAR           &kp PLUS                         &kp PRCNT  &kp LBRC       &kp UNDER     &kp RBRC          &kp COLON     &kp EQUAL
-&kp DQT           &kp HASH  &kp LEFT_BRACKET  &kp UNDERSCORE  &kp RIGHT_BRACKET  &kp DLLR                         &kp AT     &kp LESS_THAN  &kp TILDE     &kp GREATER_THAN  &kp EXCL      &kp AMPERSAND
-                            &kp ASTRK         &kp FSLH        &kp COMMA          &mo 5         &kp DOT    &trans  &trans     &trans         &kp COMMA     &kp DOT
+&kp GRAVE         &kp N1     &kp NUMBER_2      &kp NUMBER_3    &kp NUMBER_4       &kp NUMBER_5                     &kp N6     &kp NUMBER_7   &kp NUMBER_8  &kp NUMBER_9      &kp NUMBER_0  &kp PIPE
+&kp SINGLE_QUOTE  &kp BSLH   &kp LPAR          &kp MINUS       &kp RPAR           &kp SLASH                        &kp PRCNT  &kp LBRC       &kp UNDER     &kp RBRC          &kp COLON     &kp EQUAL
+&kp DQT           &kp ASTRK  &kp LEFT_BRACKET  &kp UNDERSCORE  &kp RIGHT_BRACKET  &kp DLLR                         &kp AT     &kp LESS_THAN  &kp TILDE     &kp GREATER_THAN  &kp EXCL      &kp PLUS
+                             &kp HASH          &kp AMPERSAND   &kp COMMA          &mo 5         &kp DOT    &trans  &trans     &trans         &kp COMMA     &kp DOT
             >;
 
             display-name = "sym";
