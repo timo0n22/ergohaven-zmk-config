@@ -107,8 +107,8 @@
             bindings = <
 &kp LG(RETURN)  &kp LG(N1)  &kp LG(N2)        &kp LG(N3)        &kp LG(N4)        &kp LG(N5)                         &kp LG(N6)  &kp LG(N7)  &kp LG(N8)  &kp LG(N9)     &kp LG(N0)  &kp BACKSPACE
 &kp LG(A)       &kp LC(N1)  &kp LC(NUMBER_2)  &kp LC(NUMBER_3)  &kp LC(NUMBER_4)  &kp LC(NUMBER_5)                   &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT      &trans      &kp LG(SQT)
-&kp LG(Q)       &kp LG(Z)   &kp LG(X)         &kp LG(C)         &kp LG(V)         &kp DEL                            &mo 8       &mkp MB1    &mkp MB2    &kp PAGE_UP    &trans      &kp LC(F2)
-                            &kp HOME          &kp END           &trans            &trans            &trans    &to 0  &mo 5       &trans      &mo 7       &kp PAGE_DOWN
+&kp LG(Q)       &kp LG(Z)   &kp LG(X)         &kp LG(C)         &kp LG(V)         &kp DEL                            &mo 7       &mkp MB1    &mkp MB2    &kp PAGE_UP    &trans      &kp LC(F2)
+                            &kp HOME          &kp END           &trans            &trans            &trans    &to 0  &mo 5       &trans      &mo 8       &kp PAGE_DOWN
             >;
 
             display-name = "nav";
