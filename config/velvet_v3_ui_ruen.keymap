@@ -52,7 +52,7 @@
             bindings = <
 &kp GRAVE         &kp N1       &kp NUMBER_2    &kp NUMBER_3      &kp NUMBER_4  &kp NUMBER_5                                  &kp N6     &kp NUMBER_7  &kp NUMBER_8       &kp NUMBER_9  &kp NUMBER_0  &kp BACKSPACE
 &kp LEFT_SHIFT    &kp EXCL     &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp LPAR      &kp COLON                                     &kp EQUAL  &kp RPAR      &kp RIGHT_BRACKET  &kp RBRC      &kp SQT       &kp DQT
-&kp LEFT_CONTROL  &kp PERCENT  &kp AMPERSAND   &kp PIPE          &kp ASTRK     &kp PLUS                                      &kp MINUS  &kp UNDER     &kp HASH           &kp CARET     &kp NUBS      &kp AT
+&kp LEFT_CONTROL  &kp PERCENT  &kp AMPERSAND   &kp PIPE          &kp ASTRK     &kp PLUS                                      &kp MINUS  &kp HASH      &kp UNDERSCORE     &kp CARET     &kp NUBS      &kp AT
                                &trans          &trans            &kp LEFT_ALT  &mo 3         &mt LEFT_SHIFT SPACE    &trans  &trans     &trans        &trans             &trans
             >;
 
